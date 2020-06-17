@@ -1,0 +1,317 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-image: url("https://userscontent2.emaze.com/images/3671d35d-6c99-49c7-932c-3ee648849ed1/ccddb1d8cc9c44fc1ba4a3c2ba6a489c.png");
+}
+
+h1 {
+  color: white;
+}
+
+/* rows of 2 images */
+
+/* row 1 images */
+.row1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  }
+
+.neonlaugh {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+.ferriswheel {
+  width: 300px;
+  height: 200px;
+  Object-fit: cover;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+/* row 2 images */
+.row2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.fireworks {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+.enjoytoday {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+/* row 3 images */
+.row3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.loveneon {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+.brooklynbridge {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+/* row 4 images */
+.row4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.radiocity {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+.manila {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+/* row 5 images */
+.row5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.freedom {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+.amusementpark {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+/* row 6 images */
+.row6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.roadway {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+/* TO FIX */
+
+.ashes {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+/* row 7 images */
+.row7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.crepes {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+.frozencustard {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+/* row 8 images */
+.row8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.green {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+.hopia {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+/* row 9 images */
+.row9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.tios {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+.jazz {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+/* row 10 images */
+.row10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.missbehavin {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+.colorfulcarousel {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+/* row 11 images */
+.row11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.felicidade {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
+
+.reachforthemoon {
+  width: 300px;
+  height: 200px;
+  border-style: double;
+  border-color: white;
+  border-width: 20px;
+}
